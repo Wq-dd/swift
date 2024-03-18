@@ -133,3 +133,8 @@ output/
 
 # ast template
 ast_index_file.py
+mycode
+outs
+temp
+*temp*
+models
